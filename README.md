@@ -21,7 +21,7 @@
 
 ### Let's Connect:
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasbarreto/)
-- 🌐 Works: [GitHub Portfolio](https://linktr.ee/devenirfantasma)  
+- 🌐 Works: [Works](https://linktr.ee/devenirfantasma)  
 - 🌐 Personal [Website](https://matiasbarreto.ar/portfolio/)  
 
 Excited to collaborate and explore innovative projects! 🚀✨
