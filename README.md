@@ -1,9 +1,11 @@
 ### Hi there! 👋
 
-- 🌟 Passionate about transformative education and creative experiences  
-- 🚀 Currently diving into the world of transdisciplinary learning  
-- 📚 Studying the intersection of art, technology, and education  
-- 💡 Creating interactive designs, websites, and data analyses
+- 📚 Crafting the intersection of art, technology, and education
+- 🚀 Creating transdisciplinary learning experiences for a systemic world
+- 🌐 Connecting curious minds
+- 💡 Designing interactive experiences, media spaces, websites, and more...
+- 🌟 Passionate about the transformative power of education and multidisciplinary experiences
+- 🔍 Very interested in generative AI 
 
 ### Skills:
 - 🎓 Transdisciplinary Education
