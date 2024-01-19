@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mattbarreto/mattbarreto/blob/master/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro.gif?raw=true" alt="Banner">
+  <img src="https://github.com/mattbarreto/mattbarreto/blob/master/banner.gif" alt="Banner">
 </p>
 
 
