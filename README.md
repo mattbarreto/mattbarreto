@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/mattbarreto/mattbarreto/blob/master/Banner%20de%20LinkedIn%20Tecnolog%C3%ADa%20Negro.gif?raw=true" alt="Banner">
+</p>
+
+
 ### Hi there! 👋
 
 - 📚 Crafting the intersection of art, technology, and education
