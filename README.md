@@ -1,220 +1,65 @@
-<p align="right">
-  <a href="#es">🇪🇸 Español</a> · <a href="#en">🇬🇧 English</a>
-</p>
-
----
-
-<a name="es"></a>
-
 # Matías Barreto
 
-**Tecnólogo Creativo · Educador · Investigador**
-
-> Integro IA en productos de manera creativa, con foco en el usuario.
-
-Traduzco complejidad tecnológica en experiencias significativas. Diseño soluciones donde la inteligencia artificial amplifica —no reemplaza— la creatividad humana. Mi enfoque: **Human-AI Experience (HAIX)**.
-
-Formo equipos, prototipo ideas y construyo puentes entre arte, ciencia y tecnología.
+### Ingeniero de Software · Profesor de IA · Diseñador de Producto
+> *Arquitectando sistemas donde la inteligencia artificial se encuentra con la experiencia humana.*
 
 ---
 
-## Areas de Expertise
+## 👋 Sobre mí
 
-🔮 Agentic AI · 💬 NLP / LLMs · 👁️‍🗨️ Computer Vision  
-🎯 UX Design · 🌀 Diseño Especulativo · 🔗 Pensamiento Sistémico  
-⚙️ Automatizaciones · 🧪 EdTech
+No me defino solo por el código que escribo, sino por los problemas que resuelvo. Soy un **Tecnólogo Creativo** que opera en la intersección entre la **Ingeniería Robusta**, la **Investigación en IA** y el **Diseño de Producto**.
+
+Mi enfoque es sistémico: no construyo simples scripts, diseño **ecosistemas digitales** completos. Desde la arquitectura de base de datos hasta la micro-interacción en el frontend, mi objetivo es que la complejidad tecnológica sea invisible para el usuario final.
+
+Como **Docente** (IA, NLP, Visión por Computadora), busco desmitificar la "caja negra", promoviendo un entendimiento profundo y ético de la tecnología que está moldeando nuestro futuro.
 
 ---
 
-## Tech Stack
+## 🧠 Filosofía & Stack
+
+Mi trabajo se sostiene sobre tres pilares fundamentales:
+
+| 🏗️ Ingeniería | 🔮 Inteligencia Artificial | 🎨 Producto & UX |
+| :--- | :--- | :--- |
+| Arquitecturas escalables, Clean Code, Patrones de Diseño. | LLMs, NLP, Computer Vision, Sistemas Agénticos. | Diseño de Interacción, UX Cognitiva, UI Minimalista. |
+| **Python · React · Supabase** | **Transformers · PyTorch · OpenCV** | **Figma · Design Systems** |
+
+---
+
+## 🚀 Portfolio Selecto
+
+### 💊 [ScanFarma](https://github.com/mattbarreto/scanfarma) (SaaS Proprietario)
+**Producto:** Sistema integral de inteligencia de inventario y predicción de vencimientos para farmacias.
+**Enfoque:** Demuestra capacidad de construir un producto *end-to-end* comercial.
+- **Backend:** Supabase (Auth, RLS, Edge Functions).
+- **IA:** Motor predictivo de rotación de stock.
+- **UX:** PWA Mobile-First con diseño "Glassmorphism".
+- *Status: En Producción.*
+
+### 🌊 [Rumbo SUP](https://github.com/mattbarreto/rumbo-sup)
+**Producto:** Asistente inteligente para deportistas náuticos.
+**Enfoque:** Uso de LLMs para interpretar datos complejos (meteorología) y dar recomendaciones humanas.
+- Integración de **Gemini AI** con APIs meteorológicas en tiempo real.
+- Razonamiento contextual geolocalizado.
+
+### 🎓 [Laboratorio de IA & NLP](https://github.com/mattbarreto/procesamiento-habla-nlp)
+**Academia:** Recursos educativos para el Instituto de Formación Técnica Superior.
+**Enfoque:** Democratización del conocimiento complejo.
+- Notebooks interactivos sobre Transformers, Embeddings y LLMs.
+- Enfoque práctico "aprender haciendo".
+
+---
+
+## 📬 Conexión
+
+Estoy siempre abierto a conversar sobre arquitectura de software, el futuro de la IA generativa o nuevos desafíos de producto.
+
+- 🌐 **Web:** [matiasbarreto.com](https://matiasbarreto.com)
+- 🤝 **LinkedIn:** [/in/mattbarreto](https://www.linkedin.com/in/mattbarreto/)
+- 📧 **Mail:** matiasbarreto@gmail.com
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
----
-
-## Proyectos Destacados
-
-### [Rumbo SUP](https://github.com/mattbarreto/rumbo-sup)
-> **PWA con IA para Stand Up Paddle en Mar del Plata**
-
-Aplicación que integra datos meteorológicos en tiempo real con un motor de recomendaciones potenciado por Gemini LLM.
-
-\`FastAPI\` \`React + Vite\` \`Gemini AI\` \`OpenMeteo API\` \`PWA\`
-
----
-
-### [Laboratorio de NLP y LLMs](https://github.com/mattbarreto/procesamiento-habla-nlp)
-> **Programa Académico IFTS N°24 (2025)**
-
-Curso práctico de Procesamiento del Lenguaje Natural y LLMs.
-
-\`Jupyter Notebook\` \`Python\` \`Transformers\` \`LLMs\`
-
----
-
-### [Procesamiento de Imágenes](https://github.com/mattbarreto/procesamiento-imagenes-curso)
-> **Visión por Computadora - IFTS24 (2025)**
-
-Material académico de procesamiento digital de imágenes y Computer Vision.
-
-\`Computer Vision\` \`OpenCV\` \`Jupyter Notebook\`
-
----
-
-## Docencia & Colaboraciones
-
-| Institución | Rol |
-|-------------|-----|
-| **UTN Rosario** | Profesor Titular · IA Agro Nivel 1 y 2 · [Repo](https://github.com/kobogithub/utn-agro-ai) |
-| **UCES** | Docente Invitado · Diplomatura en IA |
-| **Universidad de Barcelona** | Máster en Historia del Arte |
-| **CCEBA** | Arte & Tecnologías Creativas |
-| **IFTS N°24** | Profesor NLP, LLMs y Computer Vision |
-
----
-
-## Contacto
-
-<p align="center">
-  <a href="https://matiasbarreto.com/">
-    <img src="https://img.shields.io/badge/Website-matiasbarreto.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matiasbarreto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://devenirfantasma.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://linktr.ee/devenirfantasma">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Buenos Aires, Argentina · Remoto Global</i>
-</p>
-
----
-
-<a name="en"></a>
-
-# Matías Barreto
-
-**Creative Technologist · Educator · Researcher**
-
-> I integrate AI into products creatively, with a user-centric focus.
-
-I translate technological complexity into meaningful experiences. I design solutions where artificial intelligence amplifies —not replaces— human creativity. My approach: **Human-AI Experience (HAIX)**.
-
-I build teams, prototype ideas, and bridge art, science, and technology.
-
----
-
-## Areas of Expertise
-
-🔮 Agentic AI · 💬 NLP / LLMs · 👁️‍🗨️ Computer Vision  
-🎯 UX Design · 🌀 Speculative Design · 🔗 Systems Thinking  
-⚙️ Automation · 🧪 EdTech
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
----
-
-## Featured Projects
-
-### [Rumbo SUP](https://github.com/mattbarreto/rumbo-sup)
-> **AI-Powered PWA for Stand Up Paddle in Mar del Plata**
-
-Real-time weather data integrated with a Gemini LLM recommendation engine.
-
-\`FastAPI\` \`React + Vite\` \`Gemini AI\` \`OpenMeteo API\` \`PWA\`
-
----
-
-### [NLP & LLMs Lab](https://github.com/mattbarreto/procesamiento-habla-nlp)
-> **Academic Program IFTS N°24 (2025)**
-
-Hands-on NLP and LLMs course with interactive notebooks.
-
-\`Jupyter Notebook\` \`Python\` \`Transformers\` \`LLMs\`
-
----
-
-### [Image Processing](https://github.com/mattbarreto/procesamiento-imagenes-curso)
-> **Computer Vision - IFTS24 (2025)**
-
-Complete academic material for digital image processing.
-
-\`Computer Vision\` \`OpenCV\` \`Jupyter Notebook\`
-
----
-
-## Teaching & Collaborations
-
-| Institution | Role |
-|-------------|------|
-| **UTN Rosario** | Lead Professor · AI for Agro Levels 1 & 2 · [Repo](https://github.com/kobogithub/utn-agro-ai) |
-| **UCES** | Guest Lecturer · AI Diploma |
-| **University of Barcelona** | Art History Master's |
-| **CCEBA** | Art & Creative Technologies |
-| **IFTS N°24** | Professor NLP, LLMs & Computer Vision |
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://matiasbarreto.com/">
-    <img src="https://img.shields.io/badge/Website-matiasbarreto.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matiasbarreto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://devenirfantasma.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://linktr.ee/devenirfantasma">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Buenos Aires, Argentina · Remote Worldwide</i><br/>
-  <i>ES · EN · PT</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mattbarreto&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <small><em>"La tecnología suficientemente avanzada es indistinguible de la magia." — pero requiere una arquitectura sólida por detrás.</em></small>
 </p>
